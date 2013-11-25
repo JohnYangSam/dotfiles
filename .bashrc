@@ -198,7 +198,7 @@ export NODE_DISABLE_COLORS=1
 if [ -s ~/.nvm/nvm.sh ]; then
     NVM_DIR=~/.nvm
     source ~/.nvm/nvm.sh
-    nvm use 0.8.19
+    nvm use 0.10.22
 fi
 
 ## ------------------------------
