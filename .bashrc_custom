@@ -1,2 +1,2 @@
 export PATH=.:$PATH
-alias valgrindleak 'valgrind --leak-check=full --show-reachable=yes'
+alias valgrindleak='valgrind --leak-check=full --show-reachable=yes'
